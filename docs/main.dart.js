@@ -68957,7 +68957,7 @@ $R:0,
 $S:5}
 Y.TY.prototype={
 $0:function(){var s=O.et(K.cW("[DEFAULT]"))
-O.eo(s,s.gc2().dh(0,"Vets")).eU(0,J.pt(J.J(J.bA(this.a.b),this.b))).a.c3(0)
+O.eo(s,s.gc2().dh(0,"Accessories")).eU(0,J.pt(J.J(J.bA(this.a.b),this.b))).a.c3(0)
 Y.jA($.aN(),"Done","Successfully deleted",C.k,C.aS,t.z)},
 $C:"$0",
 $R:0,
@@ -69022,7 +69022,7 @@ $R:0,
 $S:5}
 X.a3l.prototype={
 $0:function(){var s=O.et(K.cW("[DEFAULT]"))
-O.eo(s,s.gc2().dh(0,"Vets")).eU(0,J.pt(J.J(J.bA(this.a.b),this.b))).a.c3(0)
+O.eo(s,s.gc2().dh(0,"Pets")).eU(0,J.pt(J.J(J.bA(this.a.b),this.b))).a.c3(0)
 Y.jA($.aN(),"Done","Successfully deleted",C.k,C.aS,t.z)},
 $C:"$0",
 $R:0,
